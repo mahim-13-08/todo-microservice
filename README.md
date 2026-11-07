@@ -1,4 +1,4 @@
-# Todo Microservice — Go
+# Todo Microservice (Go)
 
 A lightweight, production-ready RESTful Todo microservice built with Go's standard library + SQLite.
 

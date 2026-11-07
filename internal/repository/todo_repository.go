@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/yourusername/todo-microservice/internal/model"
+	"github.com/mahim-13-08/todo-microservice/internal/model"
 	_ "github.com/mattn/go-sqlite3"
 )
 

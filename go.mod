@@ -1,4 +1,4 @@
-module github.com/yourusername/todo-microservice
+module github.com/mahim-13-08/todo-microservice
 
 go 1.22
 

@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/yourusername/todo-microservice/internal/model"
-	"github.com/yourusername/todo-microservice/internal/repository"
+	"github.com/mahim-13-08/todo-microservice/internal/model"
+	"github.com/mahim-13-08/todo-microservice/internal/repository"
 )
 
 // TodoService contains the business logic for Todos.

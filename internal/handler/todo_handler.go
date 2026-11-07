@@ -7,11 +7,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yourusername/todo-microservice/internal/model"
-	"github.com/yourusername/todo-microservice/internal/repository"
-	"github.com/yourusername/todo-microservice/internal/service"
-	"github.com/yourusername/todo-microservice/pkg/response"
-	"github.com/yourusername/todo-microservice/pkg/validator"
+	"github.com/mahim-13-08/todo-microservice/internal/model"
+	"github.com/mahim-13-08/todo-microservice/internal/repository"
+	"github.com/mahim-13-08/todo-microservice/internal/service"
+	"github.com/mahim-13-08/todo-microservice/pkg/response"
+	"github.com/mahim-13-08/todo-microservice/pkg/validator"
 )
 
 // TodoHandler handles HTTP requests for the Todo resource.

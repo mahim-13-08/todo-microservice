@@ -9,10 +9,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/yourusername/todo-microservice/internal/handler"
-	"github.com/yourusername/todo-microservice/internal/middleware"
-	"github.com/yourusername/todo-microservice/internal/repository"
-	"github.com/yourusername/todo-microservice/internal/service"
+	"github.com/mahim-13-08/todo-microservice/internal/handler"
+	"github.com/mahim-13-08/todo-microservice/internal/middleware"
+	"github.com/mahim-13-08/todo-microservice/internal/repository"
+	"github.com/mahim-13-08/todo-microservice/internal/service"
 )
 
 func main() {

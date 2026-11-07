@@ -1,0 +1,28 @@
+# Binaries
+bin/
+*.exe
+
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Go test artifacts
+*.test
+*.out
+coverage.html
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+!.env.example

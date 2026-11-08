@@ -75,7 +75,7 @@ todo-microservice/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/todo-microservice.git
+git clone https://github.com/mahim-13-08/todo-microservice.git
 cd todo-microservice
 
 # 2. Download dependencies
